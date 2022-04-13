@@ -1,0 +1,16 @@
+Data Types
+
+                    Primitive DataTypes
+                /           |           \          \
+               /            |           char        \
+              /             |                        \
+             /              |                  boolean
+           
+        Integral        Floating          
+        byte            float
+        short           double
+        int 
+        long 
+
+
+        

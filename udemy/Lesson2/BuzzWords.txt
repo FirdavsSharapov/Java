@@ -1,0 +1,13 @@
+Java Buzzword
+
+1. Simple
+2. Secure
+3. Portable  -> can run any platform
+4. Object Oriented
+5. Robust -> they are stable.Exception handling
+6. Multithreaded ->
+7. Architecture-Neutral -> Von-Neuman, ARM, RISC, CISC, Embedded
+8. Interpreted
+9. High Performarnce
+10. Distributed -> can be distributed computed - enterprise 
+11. Dynamic -> 

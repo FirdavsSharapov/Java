@@ -1,0 +1,9 @@
+Arithmatic Expressions
+----------------------
++ - * / %
+
+> These operators can be applied on any type of data except Boolean.
+> *, /, % have higher precedence than +, -.
+
+> mod operator -> returns remeinder 
+> mod works on double type as well

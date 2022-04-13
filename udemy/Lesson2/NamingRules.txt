@@ -1,0 +1,14 @@
+Variable Naming Rules
+
+1. case Sensetive
+2. Contains Alphabets, Numbers, _ or $
+3. Starts with Alphabets, _ or $
+4. Should not be a keyword
+5. Should not be a class name, if class is also in use
+6. no limit on lenght of name7. Follow Camel Cases
+
+Literals
+
+int value = 25
+            ^
+            Literals
