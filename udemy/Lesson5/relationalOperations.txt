@@ -1,0 +1,13 @@
+relational operations 
+<
+<=
+>
+>=
+==
+!=
+
+logical operations
+&&
+||
+!
+

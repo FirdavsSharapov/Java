@@ -15,5 +15,4 @@ public class RootsOfQuadratic {
         r2 = (-b - Math.sqrt(b * b - 4 * a * c)) / (2 * a);
         System.out.println("Root are " + r1 + " " + r2);
     }
-
 }
