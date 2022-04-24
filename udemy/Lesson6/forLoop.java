@@ -1,12 +1,9 @@
 package udemy.Lesson6;
 
-public class whileLoop {
+public class forLoop {
     public static void main(String[] args) {
-        int i = 0;
-        while (i < 10) {
+        for (int i = 1; i <= 10; i++) {
             System.out.println(i);
-            i++;
         }
-
     }
 }
