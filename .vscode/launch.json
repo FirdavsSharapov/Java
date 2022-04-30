@@ -1,0 +1,161 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch Keyboard",
+            "request": "launch",
+            "mainClass": "udemy.Lesson1.Keyboard",
+            "projectName": "Java_ea3aab2"
+        },
+        {
+            "type": "java",
+            "name": "Launch ReadKeyboard",
+            "request": "launch",
+            "mainClass": "udemy.Lesson1.ReadKeyboard",
+            "projectName": "Java_ea3aab2"
+        },
+        {
+            "type": "java",
+            "name": "Launch AreaOfTriangle",
+            "request": "launch",
+            "mainClass": "udemy.Lesson3.AreaOfTriangle",
+            "projectName": "Java_ea3aab2"
+        },
+        {
+            "type": "java",
+            "name": "Launch Arithmetic",
+            "request": "launch",
+            "mainClass": "udemy.Lesson3.Arithmetic",
+            "projectName": "Java_ea3aab2"
+        },
+        {
+            "type": "java",
+            "name": "Launch RootsOfQuadratic",
+            "request": "launch",
+            "mainClass": "udemy.Lesson3.RootsOfQuadratic",
+            "projectName": "Java_ea3aab2"
+        },
+        {
+            "type": "java",
+            "name": "Launch FormatedString",
+            "request": "launch",
+            "mainClass": "udemy.Lesson4.FormatedString",
+            "projectName": "Java_ea3aab2"
+        },
+        {
+            "type": "java",
+            "name": "Launch StringObject",
+            "request": "launch",
+            "mainClass": "udemy.Lesson4.StringObject",
+            "projectName": "Java_ea3aab2"
+        },
+        {
+            "type": "java",
+            "name": "Launch conditionalStatementspractice",
+            "request": "launch",
+            "mainClass": "udemy.Lesson5.conditionalStatementspractice",
+            "projectName": "Java_ea3aab2"
+        },
+        {
+            "type": "java",
+            "name": "Launch switchCaseStatementPractice",
+            "request": "launch",
+            "mainClass": "udemy.Lesson5.switchCaseStatementPractice",
+            "projectName": "Java_ea3aab2"
+        },
+        {
+            "type": "java",
+            "name": "Launch apSeries",
+            "request": "launch",
+            "mainClass": "udemy.Lesson6.apSeries",
+            "projectName": "Java_ea3aab2"
+        },
+        {
+            "type": "java",
+            "name": "Launch armstrongDigits",
+            "request": "launch",
+            "mainClass": "udemy.Lesson6.armstrongDigits",
+            "projectName": "Java_ea3aab2"
+        },
+        {
+            "type": "java",
+            "name": "Launch countDigits",
+            "request": "launch",
+            "mainClass": "udemy.Lesson6.countDigits",
+            "projectName": "Java_ea3aab2"
+        },
+        {
+            "type": "java",
+            "name": "Launch displayDigits",
+            "request": "launch",
+            "mainClass": "udemy.Lesson6.displayDigits",
+            "projectName": "Java_ea3aab2"
+        },
+        {
+            "type": "java",
+            "name": "Launch displayMultiplicationTable",
+            "request": "launch",
+            "mainClass": "udemy.Lesson6.displayMultiplicationTable",
+            "projectName": "Java_ea3aab2"
+        },
+        {
+            "type": "java",
+            "name": "Launch factorialNumber",
+            "request": "launch",
+            "mainClass": "udemy.Lesson6.factorialNumber",
+            "projectName": "Java_ea3aab2"
+        },
+        {
+            "type": "java",
+            "name": "Launch findSumNuturalNumbers",
+            "request": "launch",
+            "mainClass": "udemy.Lesson6.findSumNuturalNumbers",
+            "projectName": "Java_ea3aab2"
+        },
+        {
+            "type": "java",
+            "name": "Launch forLoop",
+            "request": "launch",
+            "mainClass": "udemy.Lesson6.forLoop",
+            "projectName": "Java_ea3aab2"
+        },
+        {
+            "type": "java",
+            "name": "Launch numberToWords",
+            "request": "launch",
+            "mainClass": "udemy.Lesson6.numberToWords",
+            "projectName": "Java_ea3aab2"
+        },
+        {
+            "type": "java",
+            "name": "Launch palindromeNumber",
+            "request": "launch",
+            "mainClass": "udemy.Lesson6.palindromeNumber",
+            "projectName": "Java_ea3aab2"
+        },
+        {
+            "type": "java",
+            "name": "Launch reverseNumber",
+            "request": "launch",
+            "mainClass": "udemy.Lesson6.reverseNumber",
+            "projectName": "Java_ea3aab2"
+        },
+        {
+            "type": "java",
+            "name": "Launch whileLoop",
+            "request": "launch",
+            "mainClass": "udemy.Lesson6.whileLoop",
+            "projectName": "Java_ea3aab2"
+        }
+    ]
+}
