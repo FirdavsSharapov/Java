@@ -2,8 +2,6 @@ package udemy.Lesson6;
 
 import java.util.Scanner;
 
-import javax.print.event.PrintJobListener;
-
 public class apSeries {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
