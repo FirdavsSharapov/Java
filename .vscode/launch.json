@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch FindPrimeNumber",
+            "request": "launch",
+            "mainClass": "udemy.Lesson8.FindPrimeNumber",
+            "projectName": "Java_ea3aab2"
+        },
+        {
+            "type": "java",
+            "name": "Launch PassingParameter",
+            "request": "launch",
+            "mainClass": "udemy.Lesson8.PassingParameter",
+            "projectName": "Java_ea3aab2"
+        },
+        {
+            "type": "java",
+            "name": "Launch MethodPractice",
+            "request": "launch",
+            "mainClass": "udemy.Lesson8.MethodPractice",
+            "projectName": "Java_ea3aab2"
+        },
+        {
+            "type": "java",
+            "name": "Launch rotatingAnArray",
+            "request": "launch",
+            "mainClass": "udemy.Lesson7.rotatingAnArray",
+            "projectName": "Java_ea3aab2"
+        },
+        {
+            "type": "java",
             "name": "Launch findSecondLargeElement",
             "request": "launch",
             "mainClass": "udemy.Lesson7.findSecondLargeElement",
