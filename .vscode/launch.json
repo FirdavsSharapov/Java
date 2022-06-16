@@ -6,6 +6,48 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch recursiveMethod",
+            "request": "launch",
+            "mainClass": "udemy.Lesson8.recursiveMethod",
+            "projectName": "Java_ea3aab2"
+        },
+        {
+            "type": "java",
+            "name": "Launch PassingMultipleParams",
+            "request": "launch",
+            "mainClass": "udemy.Lesson8.PassingMultipleParams",
+            "projectName": "Java_ea3aab2"
+        },
+        {
+            "type": "java",
+            "name": "Launch PlusOne",
+            "request": "launch",
+            "mainClass": "udemy.LeetCode.PlusOne",
+            "projectName": "Java_ea3aab2"
+        },
+        {
+            "type": "java",
+            "name": "Launch OverloadMethodOrArray",
+            "request": "launch",
+            "mainClass": "udemy.Lesson8.OverloadMethodOrArray",
+            "projectName": "Java_ea3aab2"
+        },
+        {
+            "type": "java",
+            "name": "Launch MethodOverloadingPractice",
+            "request": "launch",
+            "mainClass": "udemy.Lesson8.MethodOverloadingPractice",
+            "projectName": "Java_ea3aab2"
+        },
+        {
+            "type": "java",
+            "name": "Launch FindGDC",
+            "request": "launch",
+            "mainClass": "udemy.Lesson8.FindGDC",
+            "projectName": "Java_ea3aab2"
+        },
+        {
+            "type": "java",
             "name": "Launch FindPrimeNumber",
             "request": "launch",
             "mainClass": "udemy.Lesson8.FindPrimeNumber",

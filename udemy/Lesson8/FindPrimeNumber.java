@@ -18,5 +18,4 @@ public class FindPrimeNumber {
         }
         return true;
     }
-
 }
