@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Shapes",
+            "request": "launch",
+            "mainClass": "udemy.Lesson9.Shapes",
+            "projectName": "Java_ea3aab2"
+        },
+        {
+            "type": "java",
             "name": "Launch recursiveMethod",
             "request": "launch",
             "mainClass": "udemy.Lesson8.recursiveMethod",
