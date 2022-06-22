@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch LongestCommonPrefix14",
+            "request": "launch",
+            "mainClass": "udemy.LeetCode.LongestCommonPrefix14",
+            "projectName": "Java_ea3aab2"
+        },
+        {
+            "type": "java",
             "name": "Launch Shapes",
             "request": "launch",
             "mainClass": "udemy.Lesson9.Shapes",
