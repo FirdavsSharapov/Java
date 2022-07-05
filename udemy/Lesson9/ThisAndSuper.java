@@ -16,6 +16,10 @@ class Rectangle{
     int length;
     int depth;
 
+    /**
+     * @param l
+     * @param d
+     */
     public Rectangle(int l, int d){
         this.length = l;
         this.depth = d;
