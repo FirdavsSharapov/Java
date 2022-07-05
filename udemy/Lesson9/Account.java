@@ -37,12 +37,53 @@ public class Account {
         return accountBalance;
     }
     void setAccountBalance(int balance){
-        accountBalance = 0;
+        accountBalance = balance;
+    }
+
+    
+    // First Name
+    String getFirstName(){
+        return firstName;
+    }
+
+    void setFirstName(String fName){
+        firstName = fName;
+    }
+
+    // Last Name
+    String getLastName(){
+        return lastName;
+    }
+
+    void setLastName(String lName){
+        lastName = lName;
+    }
+
+    // Address
+    String getAddress(){
+        return address;
+    }
+
+    void setAddress(String addr){
+        address = addr;
     }
 
 
+    // Phone
+    int getPhoneNumber(){
+        return phoneNumber;
+    }
+    void setPhoneNumber(int phone){
+        phoneNumber = phone;
+    }
 
+    // Date of birth
 
-
+    String getDateOfBirth(){
+        return dateOfBirth;
+    }
+    void setDateofBirth(String dbo){
+        dateOfBirth = dbo;
+    }
 
 }

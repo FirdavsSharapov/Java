@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch ThisAndSuper",
+            "request": "launch",
+            "mainClass": "udemy.Lesson9.ThisAndSuper",
+            "projectName": "Java_ea3aab2"
+        },
+        {
+            "type": "java",
+            "name": "Launch OrderOfInheritance",
+            "request": "launch",
+            "mainClass": "udemy.Lesson9.OrderOfInheritance",
+            "projectName": "Java_ea3aab2"
+        },
+        {
+            "type": "java",
             "name": "Launch LongestCommonPrefix14",
             "request": "launch",
             "mainClass": "udemy.LeetCode.LongestCommonPrefix14",
