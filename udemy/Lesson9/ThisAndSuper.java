@@ -29,3 +29,15 @@ class Rectangle{
         System.out.println("Depth " + this.depth);
     }
 }
+
+class Cuboid extends Rectangle{
+    int height;
+    int x= 20;
+
+    public Cuboid(int l, int d, int h) {
+        // access params from master class
+        super(l, d);
+        height=h;
+    }
+    
+}
