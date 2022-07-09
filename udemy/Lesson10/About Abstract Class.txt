@@ -1,0 +1,15 @@
+Abstract Class
+1. What is Abstract Class?
+    For the abstract class you cannot create object from that class, however
+    you can inherit/ override it. 
+
+    Abstract classes is useful to defining\Imposing standards of the class.
+1.1. 
+    What is abstract method?
+        It's undefined method
+
+
+
+2. Example of Abstract Class
+3. Why Abstract classes?
+4. Key Points
