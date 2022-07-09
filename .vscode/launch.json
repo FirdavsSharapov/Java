@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch DynamicMethodDispatch",
+            "request": "launch",
+            "mainClass": "udemy.Lesson9.DynamicMethodDispatch",
+            "projectName": "Java_ea3aab2"
+        },
+        {
+            "type": "java",
+            "name": "Launch MethodOverridingCar",
+            "request": "launch",
+            "mainClass": "udemy.Lesson9.MethodOverridingCar",
+            "projectName": "Java_ea3aab2"
+        },
+        {
+            "type": "java",
+            "name": "Launch MethodOverridingTV",
+            "request": "launch",
+            "mainClass": "udemy.Lesson9.MethodOverridingTV",
+            "projectName": "Java_ea3aab2"
+        },
+        {
+            "type": "java",
+            "name": "Launch MethodOverriding",
+            "request": "launch",
+            "mainClass": "udemy.Lesson9.MethodOverriding",
+            "projectName": "Java_ea3aab2"
+        },
+        {
+            "type": "java",
             "name": "Launch ThisAndSuper",
             "request": "launch",
             "mainClass": "udemy.Lesson9.ThisAndSuper",
