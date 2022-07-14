@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch HospitalTemplate",
+            "request": "launch",
+            "mainClass": "udemy.Lesson10.HospitalTemplate",
+            "projectName": "Java_ea3aab2"
+        },
+        {
+            "type": "java",
             "name": "Launch AbstractClassExample",
             "request": "launch",
             "mainClass": "udemy.Lesson10.AbstractClassExample",
