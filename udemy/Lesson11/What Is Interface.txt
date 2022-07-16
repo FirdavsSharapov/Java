@@ -1,1 +1,7 @@
 What is an Interfaces?
+* In concrete class you can extend only from one abstract class, but in if you want to achieve multiple inheritance than Interface would be the best option.
+* Abstract class uses extends, and Interface class uses Implements 
+
+Rules of interfaces/ Do's and Don'ts
+* Interface can default method also
+* private method is allowed inside interface class

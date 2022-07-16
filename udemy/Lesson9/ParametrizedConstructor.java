@@ -1,6 +1,9 @@
 package udemy.Lesson9;
 
 public class ParametrizedConstructor {
+    /**
+     * @param args
+     */
     public static void main(String[] args) {
         final Child c = new Child();
     }

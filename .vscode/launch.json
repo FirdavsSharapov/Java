@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch SmartPhone",
+            "request": "launch",
+            "mainClass": "udemy.Lesson11.SmartPhone",
+            "projectName": "Java_ea3aab2"
+        },
+        {
+            "type": "java",
+            "name": "Launch InterfacePractice",
+            "request": "launch",
+            "mainClass": "udemy.Lesson11.InterfacePractice",
+            "projectName": "Java_ea3aab2"
+        },
+        {
+            "type": "java",
             "name": "Launch HospitalTemplate",
             "request": "launch",
             "mainClass": "udemy.Lesson10.HospitalTemplate",
