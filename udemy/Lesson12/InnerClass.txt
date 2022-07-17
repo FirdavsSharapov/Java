@@ -1,0 +1,12 @@
+*** Inner class ***
+
+What is the inner class?
+To reduce the complexity of the class we can use inner class within the class
+
+* Nested inner class
+    * Inner class methiod can access the members of outter class
+    * You can use inner class by creating its obejects inside outter class
+    * Outter class cannot access the members of Inner class directly. Unless you create an object
+
+* static inner class
+* 

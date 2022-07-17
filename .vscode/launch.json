@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch NestedInner",
+            "request": "launch",
+            "mainClass": "udemy.Lesson12.NestedInner",
+            "projectName": "Java_ea3aab2"
+        },
+        {
+            "type": "java",
             "name": "Launch SmartPhone",
             "request": "launch",
             "mainClass": "udemy.Lesson11.SmartPhone",
