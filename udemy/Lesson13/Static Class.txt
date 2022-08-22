@@ -1,0 +1,39 @@
+Static
+Static method
+Static variable
+Static nested class
+Static blocks
+
+Static keyword useful to representing metadata. 
+Important: Static method is getting shared with all objects of the class
+Static members can be used directly from class name ``ClassName.VariableName``
+Static method only can be called from static class
+Static method can access only static members
+only inner classes can be static
+
+####################################################################
+
+Final 
+1. Final variable
+    This variables are constants - It can't be modified 
+    Final variable needs to be written in capital latter
+    There is a three methods to initializing final methods 
+        1. final int MAX = 2;
+        2. final int NORMAL;
+        3. final int MIN;
+
+        static{
+            NORMAL=5;
+        }
+
+        // you can innittialize inside constructor
+        My(){
+            MIN=1;
+        }
+
+2. Final method 
+    you can't overide final method when you call from super class
+
+3. Final class
+    you can't extend or inherited from final class. you can create objects but you can't override
+

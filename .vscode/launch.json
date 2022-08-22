@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Finalpractice",
+            "request": "launch",
+            "mainClass": "udemy.Lesson13.Finalpractice",
+            "projectName": "Java_ea3aab2"
+        },
+        {
+            "type": "java",
+            "name": "Launch StaticMethodPractice",
+            "request": "launch",
+            "mainClass": "udemy.Lesson13.StaticMethodPractice",
+            "projectName": "Java_ea3aab2"
+        },
+        {
+            "type": "java",
             "name": "Launch NestedInner",
             "request": "launch",
             "mainClass": "udemy.Lesson12.NestedInner",
