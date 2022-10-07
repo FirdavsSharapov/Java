@@ -4,19 +4,20 @@ import java.util.Scanner;
 
 public class apSeries {
     public static void main(String[] args) {
-        Scanner scan = new Scanner(System.in);
-        System.out.println("Please enter startting number: ");
-        int a = scan.nextInt();
-        System.out.println("Please enter increment number: ");
-        int b = scan.nextInt();
-        System.out.println("Please enter number of itteration: ");
-        int n = scan.nextInt();
-        System.out.println();
-        series(a, b, n);
-        System.out.println();
-        gpSeries(a, b, n);
-        System.out.println();
-        fibonacci(a);
+        try (Scanner scan = new Scanner(System.in)) {
+            System.out.println("Please enter startting number: ");
+            int a = scan.nextInt();
+            System.out.println("Please enter increment number: ");
+            int b = scan.nextInt();
+            System.out.println("Please enter number of itteration: ");
+            int n = scan.nextInt();
+            System.out.println();
+            series(a, b, n);
+            System.out.println();
+            gpSeries(a, b, n);
+            System.out.println();
+            fibonacci(a);
+        }
     }
 
     public static void series(int a, int b, int n) {

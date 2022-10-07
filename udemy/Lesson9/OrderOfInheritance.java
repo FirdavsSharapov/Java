@@ -26,6 +26,7 @@ class GrandChild extends Child {
 public class OrderOfInheritance {
     public static void main(String[] args) {
         GrandChild c = new GrandChild();
+        c.toString();
     }
 
 }

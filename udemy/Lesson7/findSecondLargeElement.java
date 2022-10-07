@@ -1,7 +1,5 @@
 package udemy.Lesson7;
 
-import java.util.Scanner;
-
 public class findSecondLargeElement {
     public static void main(String[] args) {
         int arr_elements[] = { 3, 9, 7, 8, 12, 6, 15, 5, 4, 10 };

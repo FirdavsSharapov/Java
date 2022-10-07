@@ -19,7 +19,7 @@ public class StaticMethodPractice{
     public static void main(String[] args) {
         Test t1 = new Test();
         t1.show();
-        t1.x = 40;
+        Test.x = 40;
         t1.y = 60;
 
         Test t2 = new Test();

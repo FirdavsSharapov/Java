@@ -3,6 +3,7 @@ package udemy.Lesson8;
 public class MethodOverloadingPractice {
     public static void main(String[] args) {
         System.out.println(max(6f, 6f));
+        System.out.println(max(2,3));
     }
 
 private static int max(int x, int y){
