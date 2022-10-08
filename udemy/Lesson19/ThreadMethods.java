@@ -7,12 +7,12 @@ class MyRun implements Runnable{
 }
 
 // another way to call methods of the threads is to extend super class of Thread
-class MyThread extends Thread{
-    // calling the constructor of the class
-    public MyThread(){ // constructor take one param which is name and passes to super class
-        setPriority(MAX_PRIORITY);
-    }  
-}
+// class MyThread extends Thread{
+//     // calling the constructor of the class
+//     public MyThread(){ // constructor take one param which is name and passes to super class
+//         setPriority(MAX_PRIORITY);
+//     }  
+// }
 public class ThreadMethods {
     public static void main(String[] args) throws Exception {
         Thread t = new Thread(new MyRun(), "my thread name"); // we can give thread a name so we can identify them  by name

@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch ParametrizedConstructor",
+            "request": "launch",
+            "mainClass": "udemy.Lesson9.ParametrizedConstructor",
+            "projectName": "Java_ea3aab2"
+        },
+        {
+            "type": "java",
+            "name": "Launch ThreadSyncronization",
+            "request": "launch",
+            "mainClass": "udemy.Lesson19.ThreadSyncronization",
+            "projectName": "Java_ea3aab2"
+        },
+        {
+            "type": "java",
             "name": "Launch ThreadDeamonjoinYield",
             "request": "launch",
             "mainClass": "udemy.Lesson19.ThreadDeamonjoinYield",
