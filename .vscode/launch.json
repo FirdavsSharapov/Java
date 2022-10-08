@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch ThreadDeamonjoinYield",
+            "request": "launch",
+            "mainClass": "udemy.Lesson19.ThreadDeamonjoinYield",
+            "projectName": "Java_ea3aab2"
+        },
+        {
+            "type": "java",
             "name": "Launch ThreadMethods",
             "request": "launch",
             "mainClass": "udemy.Lesson19.ThreadMethods",
