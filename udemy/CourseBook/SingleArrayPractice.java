@@ -18,7 +18,17 @@ public class SingleArrayPractice {
             }
             System.out.println("Smallest index of the max value is " + index);
         }
+        arrayPractice();
     }
 
-    public static void 
+    public static void arrayPractice (){
+        double[] aDouble = new double[10];
+        aDouble[9] = 5.5;
+        System.out.print(aDouble[0] + aDouble[1]);
+        int i = 0; 
+        
+        while(i <= aDouble.length){
+
+        }
+    } 
 }
