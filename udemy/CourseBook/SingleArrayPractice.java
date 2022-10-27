@@ -18,12 +18,15 @@ public class SingleArrayPractice {
             }
             System.out.println("Smallest index of the max value is " + index);
         }
-        arrayPractice();
-        arrayCopyPractice();
-        passingArrayInMethod(new int[] { 1, 2, 3, 4, 5 }); // there is no explicit reference caviable for thr array.
-                                                           // Such array is caled annonymous
-        singleNumber(new int[] { 2, 2, 1 });
-        passingArrayInMethod2(new int[] { 1, 2, 3, 4, 5 });
+        // arrayPractice();
+        // arrayCopyPractice();
+        // passingArrayInMethod(new int[] { 1, 2, 3, 4, 5 }); // there is no explicit reference caviable for thr array.
+        //                                                    // Such array is caled annonymous
+        // singleNumber(new int[] { 2, 2, 1 });
+        // passingArrayInMethod2(new int[] { 1, 2, 3, 4, 5 });
+        
+        findError(new int[] { 1, 2, 3, 4, 5, 6 });
+    
     }
 
     // Passing array in a methods
@@ -85,5 +88,18 @@ public class SingleArrayPractice {
             result ^= nums[i];
         }
         return result;
+    }
+
+
+    private static void findError(int [] arrName){
+        for (int i =0, j = arrName.length-1; i<arrName.length/2; i++, j--){
+            int temp = arrName[i];
+            arrName[i] = arrName[j];
+            arrName[j] = temp;
+        }
+
+        for(int e:arrName){
+            System.out.print(e);
+        }
     }
 }
