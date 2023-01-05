@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch ValidCharacter",
+            "request": "launch",
+            "mainClass": "udemy.LeetCode.ValidCharacter",
+            "projectName": "Java_ea3aab2"
+        },
+        {
+            "type": "java",
+            "name": "Launch Getdata",
+            "request": "launch",
+            "mainClass": "udemy.Lesson22.Getdata",
+            "projectName": "Java_ea3aab2"
+        },
+        {
+            "type": "java",
+            "name": "Launch LambdaExpression",
+            "request": "launch",
+            "mainClass": "udemy.Lesson21.LambdaExpression",
+            "projectName": "Java_ea3aab2"
+        },
+        {
+            "type": "java",
             "name": "Launch BinarySearch",
             "request": "launch",
             "mainClass": "udemy.CourseBook.BinarySearch",
