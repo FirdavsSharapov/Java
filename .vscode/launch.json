@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ArrayDequeue",
+            "request": "launch",
+            "mainClass": "udemy.Lesson25.ArrayDequeue",
+            "projectName": "Java_ea3aab2"
+        },
+        {
+            "type": "java",
+            "name": "HashSetDemo",
+            "request": "launch",
+            "mainClass": "udemy.Lesson25.HashSetDemo",
+            "projectName": "Java_ea3aab2"
+        },
+        {
+            "type": "java",
+            "name": "Launch LinkedListDemo",
+            "request": "launch",
+            "mainClass": "udemy.Lesson25.LinkedListDemo",
+            "projectName": "Java_ea3aab2"
+        },
+        {
+            "type": "java",
+            "name": "Launch ListDemo",
+            "request": "launch",
+            "mainClass": "udemy.Lesson25.ListDemo",
+            "projectName": "Java_ea3aab2"
+        },
+        {
+            "type": "java",
             "name": "Launch ValidCharacter",
             "request": "launch",
             "mainClass": "udemy.LeetCode.ValidCharacter",
